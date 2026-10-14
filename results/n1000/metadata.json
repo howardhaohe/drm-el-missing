@@ -1,0 +1,57 @@
+{
+  "config": {
+    "n_samples": [
+      1000,
+      1000,
+      1000,
+      1000
+    ],
+    "n_replications": 1000,
+    "seed": 591,
+    "k": 1,
+    "propensity_method": "kernel",
+    "propensity_classes": 20,
+    "propensity_clip": 1e-06,
+    "propensity_bandwidth_power": -0.2,
+    "imputation_bandwidth_power": -0.3333333333333333,
+    "maxiter": 1000,
+    "gtol": 1e-08
+  },
+  "methods": [
+    "cc_del",
+    "cc_custom",
+    "full_del",
+    "full_custom",
+    "kernel_t_del",
+    "kernel_t_aug",
+    "kernel_f_del",
+    "kernel_f_aug",
+    "odds_tt_del",
+    "augmented_tt",
+    "odds_tf_del",
+    "augmented_tf",
+    "odds_ft_del",
+    "augmented_ft",
+    "odds_ff_del",
+    "augmented_ff"
+  ],
+  "parameters": [
+    "alpha_1",
+    "beta_y_1",
+    "beta_y2_1",
+    "alpha_2",
+    "beta_y_2",
+    "beta_y2_2",
+    "alpha_3",
+    "beta_y_3",
+    "beta_y2_3"
+  ],
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "n_jobs": 8,
+  "elapsed_seconds_this_session": 279.84240513999976,
+  "RE_definition": "paired MSE(full_del) / MSE(method)",
+  "RB_definition": "100*(mean-truth)/truth",
+  "note": "Successful local candidates only; failure counts are reported; augmented global optima are not certified."
+}

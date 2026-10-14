@@ -1,0 +1,10 @@
+# Exact core versions used for the delivered run (Python 3.12).
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+scikit-learn==1.8.0
+joblib==1.5.3
+threadpoolctl==3.6.0
+matplotlib==3.10.8
+nbformat==5.11.1
+nbclient==0.11.0

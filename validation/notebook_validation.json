@@ -1,0 +1,6 @@
+{
+  "method": "IPython in-process InteractiveShell",
+  "reason": "Hosted environment disallows socket binding for Jupyter kernels",
+  "all_code_cells_executed": true,
+  "code_cells": 13
+}

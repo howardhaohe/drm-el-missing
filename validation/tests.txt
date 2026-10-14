@@ -1,0 +1,22 @@
+test_augmented_scalar_formula_and_gradient (test_translation.TranslationTests.test_augmented_scalar_formula_and_gradient) ... ok
+test_balanced_groups_and_empty_donor_bins (test_translation.TranslationTests.test_balanced_groups_and_empty_donor_bins) ... ok
+test_basis_callable_and_all_package_codes (test_translation.TranslationTests.test_basis_callable_and_all_package_codes) ... ok
+test_complete_gradient (test_translation.TranslationTests.test_complete_gradient) ... ok
+test_complete_scalar_formula (test_translation.TranslationTests.test_complete_scalar_formula) ... ok
+test_data_truth_and_missingness (test_translation.TranslationTests.test_data_truth_and_missingness) ... ok
+test_generic_population_basis_dimension (test_translation.TranslationTests.test_generic_population_basis_dimension) ... ok
+test_hessians (test_translation.TranslationTests.test_hessians) ... ok
+test_imputation_no_leakage_and_shapes (test_translation.TranslationTests.test_imputation_no_leakage_and_shapes) ... ok
+test_invalid_inputs (test_translation.TranslationTests.test_invalid_inputs) ... ok
+test_kernel_propensity_and_weights (test_translation.TranslationTests.test_kernel_propensity_and_weights) ... ok
+test_no_missing_reduces_to_del (test_translation.TranslationTests.test_no_missing_reduces_to_del) ... ok
+test_parallel_reproducibility_and_checkpoint (test_translation.TranslationTests.test_parallel_reproducibility_and_checkpoint) ... ok
+test_quantiles_at_ties_and_endpoints (test_translation.TranslationTests.test_quantiles_at_ties_and_endpoints) ... ok
+test_summary_rb_re_and_failed_fit_handling (test_translation.TranslationTests.test_summary_rb_re_and_failed_fit_handling) ... ok
+test_tiny_bandwidth_and_multivariate (test_translation.TranslationTests.test_tiny_bandwidth_and_multivariate) ... ok
+test_unit_propensity_matches_completed_del (test_translation.TranslationTests.test_unit_propensity_matches_completed_del) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 4.408s
+
+OK

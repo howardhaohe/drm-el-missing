@@ -1,0 +1,11 @@
+{
+  "reference": "Actual drmdel 1.3.2 C logDualL/logDualLGr, compiled without R",
+  "random_parameter_checks": 20,
+  "max_absolute_objective_error": 5.684341886080801e-13,
+  "max_absolute_gradient_error": 2.546585164964199e-11,
+  "max_absolute_fitted_parameter_difference": 7.330983100573008e-07,
+  "fitted_objective_difference": 7.815970093361102e-14,
+  "python_fit_success": true,
+  "R_runtime_comparison": "Not run: R runtime is not installed",
+  "status": "passed"
+}

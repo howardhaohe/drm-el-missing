@@ -1,0 +1,11 @@
+{
+  "tests_passed": 17,
+  "notebook_code_cells_executed": 13,
+  "replications_completed": 1000,
+  "reported_methods": 16,
+  "parameters_per_method": 9,
+  "failures": 0,
+  "workers": 8,
+  "n_per_population": 1000,
+  "elapsed_simulation_seconds": 279.84240513999976
+}
